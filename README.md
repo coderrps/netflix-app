@@ -1,6 +1,6 @@
 ---
 
-# Netflix Movie Recommendation System Project Report (https://netflix-recommendation-system-ritu.streamlit.app/)
+# Netflix Movie Recommendation System Project Report: (https://netflix-recommendation-system-ritu.streamlit.app/)
 
 ## Project Overview
 
@@ -30,7 +30,7 @@ The project consists of the following components:
 
 ## Data Source
 
-The Netflix dataset used in this project is sourced from the following GitHub repository: [Netflix Recommendation System Dataset](https://github.com/coderrps/netflix-app).
+The Netflix dataset used in this project is sourced from the following GitHub repository. Kaggle
 
 ## Installation and Usage
 
