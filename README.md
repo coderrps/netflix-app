@@ -1,6 +1,6 @@
 ---
 
-# Netflix Movie Recommendation System Project Report: (https://netflix-recommendation-system-ritu.streamlit.app/)
+# Netflix Movie Recommendation System Project Report: [(https://netflix-recommendation-system-ritu.streamlit.app/)]
 
 ## Project Overview
 
